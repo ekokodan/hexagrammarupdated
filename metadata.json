@@ -1,0 +1,5 @@
+{
+  "name": "HexaGrammar: French",
+  "description": "An interactive, gamified French sentence-building application using Gemini for real-time grammar validation and feedback.",
+  "requestFramePermissions": []
+}
